@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <!-- <item
+         android:id="@+id/item1"
+         android:textSize="12sp"
+         android:title="@string/syn_c" />
+     <item
+         android:id="@+id/item2"
+         android:textSize="12sp"
+         android:title="@string/in_data" />-->
+
+    <!--<item
+        android:id="@+id/item3"
+        android:textSize="12sp"
+        android:title="@string/refreshstudent" />-->
+</menu>
